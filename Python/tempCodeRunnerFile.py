@@ -1,0 +1,1 @@
+str(num) + " X " str(i) + " = " +  str(i*num))
